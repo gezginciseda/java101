@@ -10,7 +10,8 @@ public class Main {
 
         if (tutar >= 0 && tutar <= 1000) {
             kdvOran = 0.18;
-        } else {
+        } 
+        else {
             kdvOran = 0.08;
         }
 
