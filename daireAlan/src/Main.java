@@ -15,10 +15,7 @@ public class Main {
         area = (pi * (r*r) * a) / 360;
 
         System.out.println("Daire diliminin alanı: " + area);
-
-
-
-
+        
     }
 
 }
