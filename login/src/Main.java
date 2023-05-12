@@ -16,7 +16,7 @@ public class Main {
         } else {
             System.out.println("Bilgileriniz Yanlış ! ");
 
-            System.out.print("Şifrenizi sıfırlamak ister misisiniz? (evet/hayır): ");
+            System.out.print("Şifrenizi sıfırlamak ister misiniz? (evet/hayır): ");
             String cevap = inp.nextLine();
 
             if (cevap.equalsIgnoreCase("evet")) {
