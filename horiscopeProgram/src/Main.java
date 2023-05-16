@@ -9,7 +9,7 @@ public class Main {
        System.out.print("Doğum gününüzün ayını girin (1-12) : ");
        month = input.nextInt();
 
-       System.out.print("Doğum gününüzün gününü girin (1-31) :");
+       System.out.print("Doğum gününüzü girin (1-31) :");
        day = input.nextInt();
 
        if ((month == 1 && day >= 22) || (month == 2 && day <= 19 )) {
