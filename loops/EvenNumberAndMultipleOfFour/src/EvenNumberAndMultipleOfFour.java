@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EvenNumberAndMultipleOf4 {
+public class EvenNumberAndMultipleOfFour {
     public static void main(String[] args) {
         int n;
         int total=0;
