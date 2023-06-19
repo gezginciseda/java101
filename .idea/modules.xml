@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Loops/ATMProject/ATMProject.iml" filepath="$PROJECT_DIR$/Loops/ATMProject/ATMProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/ArmstrongNumbers/ArmstrongNumbers.iml" filepath="$PROJECT_DIR$/Loops/ArmstrongNumbers/ArmstrongNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Combination/Combination.iml" filepath="$PROJECT_DIR$/Loops/Combination/Combination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Diamond/Diamond.iml" filepath="$PROJECT_DIR$/Loops/Diamond/Diamond.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/EbobEkok/EbobEkok.iml" filepath="$PROJECT_DIR$/Loops/EbobEkok/EbobEkok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/EvenNumberAndMultipleOfFour/EvenNumberAndMultipleOfFour.iml" filepath="$PROJECT_DIR$/Loops/EvenNumberAndMultipleOfFour/EvenNumberAndMultipleOfFour.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/ExponentialNumber/ExponentialNumber.iml" filepath="$PROJECT_DIR$/Loops/ExponentialNumber/ExponentialNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/FullDivisionBy3And4/FullDivisionBy3And4.iml" filepath="$PROJECT_DIR$/Loops/FullDivisionBy3And4/FullDivisionBy3And4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/HarmonicNumbers/HarmonicNumbers.iml" filepath="$PROJECT_DIR$/Loops/HarmonicNumbers/HarmonicNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/MinMax/MinMax.iml" filepath="$PROJECT_DIR$/Loops/MinMax/MinMax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/NumberOfDigits/NumberOfDigits.iml" filepath="$PROJECT_DIR$/Loops/NumberOfDigits/NumberOfDigits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/PowersOfFourAndFive/PowersOfFourAndFive.iml" filepath="$PROJECT_DIR$/Loops/PowersOfFourAndFive/PowersOfFourAndFive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ Conditional Expressions and Code Blocks/activityByTemperature/activityByTemperature.iml" filepath="$PROJECT_DIR$/ Conditional Expressions and Code Blocks/activityByTemperature/activityByTemperature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ Basic Concepts and Variables/alanHesaplama/alanHesaplama.iml" filepath="$PROJECT_DIR$/ Basic Concepts and Variables/alanHesaplama/alanHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ Basic Concepts and Variables/bodyMassIndex/bodyMassIndex.iml" filepath="$PROJECT_DIR$/ Basic Concepts and Variables/bodyMassIndex/bodyMassIndex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ Conditional Expressions and Code Blocks/calculator/calculator.iml" filepath="$PROJECT_DIR$/ Conditional Expressions and Code Blocks/calculator/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ Conditional Expressions and Code Blocks/chineseZodiac/chineseZodiac.iml" filepath="$PROJECT_DIR$/ Conditional Expressions and Code Blocks/chineseZodiac/chineseZodiac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ Basic Concepts and Variables/daireAlan/daireAlan.iml" filepath="$PROJECT_DIR$/ Basic Concepts and Variables/daireAlan/daireAlan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/Loops/fibonacci/fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ Conditional Expressions and Code Blocks/flightTicket/flightTicket.iml" filepath="$PROJECT_DIR$/ Conditional Expressions and Code Blocks/flightTicket/flightTicket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ Basic Concepts and Variables/gradeAvarage/gradeAvarage.iml" filepath="$PROJECT_DIR$/ Basic Concepts and Variables/gradeAvarage/gradeAvarage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ Conditional Expressions and Code Blocks/horiscopeProgram/horiscopeProgram.iml" filepath="$PROJECT_DIR$/ Conditional Expressions and Code Blocks/horiscopeProgram/horiscopeProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/invertedTriangle/invertedTriangle.iml" filepath="$PROJECT_DIR$/Loops/invertedTriangle/invertedTriangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java101.iml" filepath="$PROJECT_DIR$/.idea/java101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ Basic Concepts and Variables/kdvTutar/kdvTutar.iml" filepath="$PROJECT_DIR$/ Basic Concepts and Variables/kdvTutar/kdvTutar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ Conditional Expressions and Code Blocks/leapYear/leapYear.iml" filepath="$PROJECT_DIR$/ Conditional Expressions and Code Blocks/leapYear/leapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ Conditional Expressions and Code Blocks/login/login.iml" filepath="$PROJECT_DIR$/ Conditional Expressions and Code Blocks/login/login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ Basic Concepts and Variables/manavKasa/manavKasa.iml" filepath="$PROJECT_DIR$/ Basic Concepts and Variables/manavKasa/manavKasa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ Conditional Expressions and Code Blocks/not-hesaplama/not-hesaplama.iml" filepath="$PROJECT_DIR$/ Conditional Expressions and Code Blocks/not-hesaplama/not-hesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ Conditional Expressions and Code Blocks/numberSorting/numberSorting.iml" filepath="$PROJECT_DIR$/ Conditional Expressions and Code Blocks/numberSorting/numberSorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/perfectNumber/perfectNumber.iml" filepath="$PROJECT_DIR$/Loops/perfectNumber/perfectNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/primeNumbers/primeNumbers.iml" filepath="$PROJECT_DIR$/Loops/primeNumbers/primeNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ Basic Concepts and Variables/taximeter/taximeter.iml" filepath="$PROJECT_DIR$/ Basic Concepts and Variables/taximeter/taximeter.iml" />
+    </modules>
+  </component>
+</project>
