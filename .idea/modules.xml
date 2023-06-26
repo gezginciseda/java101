@@ -35,8 +35,10 @@
       <module fileurl="file://$PROJECT_DIR$/ Conditional Expressions and Code Blocks/numberSorting/numberSorting.iml" filepath="$PROJECT_DIR$/ Conditional Expressions and Code Blocks/numberSorting/numberSorting.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loops/perfectNumber/perfectNumber.iml" filepath="$PROJECT_DIR$/Loops/perfectNumber/perfectNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loops/primeNumbers/primeNumbers.iml" filepath="$PROJECT_DIR$/Loops/primeNumbers/primeNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/recursivePattern/recursivePattern.iml" filepath="$PROJECT_DIR$/Methods/recursivePattern/recursivePattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Methods/recursivePow/recursivePow.iml" filepath="$PROJECT_DIR$/Methods/recursivePow/recursivePow.iml" />
       <module fileurl="file://$PROJECT_DIR$/Methods/recursivePrime/recursivePrime.iml" filepath="$PROJECT_DIR$/Methods/recursivePrime/recursivePrime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes/studentInformationSystem/studentInformationSystem.iml" filepath="$PROJECT_DIR$/Classes/studentInformationSystem/studentInformationSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/ Basic Concepts and Variables/taximeter/taximeter.iml" filepath="$PROJECT_DIR$/ Basic Concepts and Variables/taximeter/taximeter.iml" />
     </modules>
   </component>
